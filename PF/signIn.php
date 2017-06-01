@@ -24,7 +24,7 @@ left: 165px;
 font-family:freestyle script;
 }
 #cuadro{
-border: 4px solid powderblue;
+border: 4px solid red;
 font-size: 20px;
 }
 #letras{
@@ -47,11 +47,9 @@ font-family:arial;
         <form  action="procesarSignIn.php" enctype="multipart/form-data" action="uploader.php" method="POST">
 <label id="titulo">HOTEL CANINO- K9 SUITE! </label><br><br>     
 <div class="centrado">
-<label id="letras">Nombre mascota: </label> 
-<input type="text" name="nombrem" id="cuadro"><br><br>
-<label id="letras">Nombre propietario: </label> 
+<label id="letras">Nick Name </label> 
 <input type="text" name="nombrep" id="cuadro"><br><br>
-<label id="letras">Clave: </label> 
+<label id="letras">Password: </label> 
 <input type="text" name="clave" id="cuadro"><br><br>
 <input type="submit" value="SIGN IN" id="botonr">
 </div>

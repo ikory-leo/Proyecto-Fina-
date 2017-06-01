@@ -31,16 +31,16 @@ and open the template in the editor.
       		#objeto{
       			width:100px;
       			height:100px;
-      			background-color:#334444;
+      			background-color:yellow;
       			margin:0 auto;
       		}
       </style>
    </head>
-
+<body style="background-color:#3db9a9;">
 
 <body>
     
-           <div id="objeto">    
+           <div id="objeto">            
     </div>    
     <div id="posicionX"></div>
     <div id="posicionY"></div>

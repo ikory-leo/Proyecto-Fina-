@@ -9,7 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title>informacion</title>
     </head>
-    <body style="background-color:cornsilk;">
+    <body style="background-color:#3db9a9;">
         <style>
     #letras{
     position: relative;
@@ -18,39 +18,38 @@ and open the template in the editor.
     font-size: 18px;
     font-family:arial;
     }
-    #titulo{
-    background-color:mediumorchid;
-    color: powderblue;
+ #titulo{
+    background-color:red;
+    color: white;  
     border: 1px solid black;
-    padding: 20px;
+    padding: 30px;
     margin: 30px;
     position: relative;
-    top: 40px;
-    left: 400px;
+    top: 70px;
+    left: 550px;
     font-size: 50px;
-    font-family:freestyle script;
-       }  
+    font-family:new times roman;
+       }
        #subtitulo{
     position: relative;
     top: 50px;
     left: 15px;  
     color: mediumorchid;
     font-size: 38px;
-    font-family:freestyle script;
+    font-family:algerian;
        }
         </style>   
         <form>
-            <label id="titulo">HOTEL CANINO- K9 SUITE! </label><br><br> 
-            <label id="subtitulo">¿Quienes somos?</label><br><br>
-            <label id="letras">Hotel canino y comodidades a domicilio que ofrece servicios tales como cuidado, paseos, transporte, salon de belleza, veterinaria, urgencias médicas, comida, accesorios, asesoramiento, entrenamiento y adopción. </label> <br><br> 
-            <label id="subtitulo">¿Que se quiere?</label><br><br>
-            <label id="letras">♥•El presente es un proyecto pensado y creado desde el sufrimiento que se evidencia dia a dia en los animales domésticos que no poseen los cuidados adecuados por parte de sus dueños, quienes incluso llegan hasta abandonarlos en las calles muchas veces por desinterés y falta de amor y otras por falta de tiempo.  </label> <br><br>
-            <label id="letras">☺•Crear una excelente fuente de información virtual desde la cual se pueda proporcionar una fuerte colaboración respecto a los datos y los elementos claves que se deben tener para una buena manutención de los animales domésticos, específicamente caninos. </label> <br><br> 
-            <label id="subtitulo">Objetivo:</label><br><br>
-            <label id="letras"> ♥•Reducir la falta de conciencia humana respecto al significado de los animales y la responsabilidad que abarca tenerlos y mantenerlos.  </label> <br><br> 
-            <label id="letras"> ☺•Prestación de servicios que son indispensables para la comodidad y felicidad de los animales y para la tranquilidad y manejo del tiempo de sus propietarios, aminorando de esta manera las excusas de los amos para proporcionales un bienestar a sus mascotas.</label> <br><br> 
-            <label id="subtitulo">Beneficios:</label><br><br>
-            <label id="letras">Para los clientes: elementos de utilidad para la vida de su mascota solicitados desde la comodidad de su hogar, sin gastar tiempo de mas; para la comunidad en general: descenso del abuso animal y reducción de perros abandonados en las calles </label> <br><br> 
+            <label id="titulo">ModIn </label><br>
+            <label id="subtitulo">Introducción</label><br>
+            <label id="letras">En el siguiente documento usted podrá obtener información del producto que se va a desarrollar a lo largo del semestre el cual surge a partir de una necesidad que últimamente ha venido tomando mucha fuerza, con ésto se busca con el proyecto solventar esas necesidades que específicamente van dirigidas al sector de la moda y las salas de belleza, ésto no quiere decir que el producto no pueda ser usado o utilizado en otros espacios que sean distintos a los anteriores, puede ser usado como base para tener una idea de un look a la hora de ir a un estilista. </label> <br>
+            <label id="subtitulo">Objetivo general</label><br>
+            <label id="letras">Proporcionar a la sociedad una aplicación que desde sus dispositivos móviles puedan usar, el cual contará con una plataforma en la cual la persona podrá comparar entre muchos estilos y definir con ésta el más apropiado para el, contará con secciones de tendencias, lo ultimo en moda, lo mejor de la semana, y opciones en que pueda ver los looks de sus celebridades si quiere, y cómo se vería con distinta ropa, accesorios, peinados y hasta tattoos. Se va a realizar teniendo en cuenta las modas modernas y las clásicas, las que han marcado la historia y las que aún perduran, con una conección a las principales páginas que están a la vanguardia de la moda y estilos. Todo ésto con el fin de darle a la persona usuaria un estilo apropiado y mostrarle los cambios que se están dando y como él pudiera lucir con alguno de los estilos que ofrece la aplicación. </label> <br>
+            <label id="subtitulo">Objetivos específicos</label><br>
+            <label id="letras"> * Mostrar al usuario lo que está pasando en el mundo de la moda  </label> <br>
+            <label id="letras"> * Tener en cuenta sus opiniones para futuras mejoras</label> <br>
+            <label id="subtitulo">Metas del Proyecto</label><br>
+            <label id="letras">Está contemplado una aceptación por parte de los usuarios con comentarios positivos acerca de la aplicación con una posible recomendación por parte de ellos con sus contactos y así tener una idea más globalizada de lo que la gente está requiriendo de la aplicación. </label> <br>
             
         </form>
     </body>

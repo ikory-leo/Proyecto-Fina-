@@ -10,6 +10,7 @@ and open the template in the editor.
 
 
    </head>
+   <body style="background-color:#3db9a9;">
 <form enctype="multipart/form-data" action="servicios.php" method="POST">
 <input name="uploadedfile" type="file" />
 <input type="submit" value="Subir archivo" />

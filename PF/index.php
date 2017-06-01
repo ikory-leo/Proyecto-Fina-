@@ -26,11 +26,12 @@ and open the template in the editor.
     <div class='miBoton'>
 <input type="submit" value="SIGN IN" class='btn btn-info'/>
     </div>
-<br><input type=image  width="50" height="40" id="letras" onclick="nueva(http://localhost/ProyectoFinal/informacion.php)"><label id="tittle"><a href="informacion.php" target="_blank">Informacion de Servicios </a></label><br>
+<br><input type=image  width="50" height="40" id="letras" onclick="nueva(http://localhost/ProyectoFinal/informacion.php)"><label id="tittle"><a href="informacion.php" target="_blank">Acerca de </a></label><br>
 <input type=image  width="50" height="40" id="tittle"><label id="tittle"><a href="registro.php" target="_blank"> Registro</a> </label> <br>
 <input type=image  width="150" height="40" id="letras"><label id="tittle"><a href="Preservi.php" target="_blank">Ingresar sin registrarse</a> </label> <br>
-<input type=image  width="250" height="40" id="letras"><label id="tittle"><a href="galeria.php" target="_blank">Galeria </a> </label> <br>
+<input type=image  width="250" height="40" id="letras"><label id="tittle"><a href="galeria.php" target="_blank">Preguntas Frecuentes</a> </label> <br>
 </div>
+
 
 
 </form> 
