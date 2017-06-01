@@ -9,7 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
     </head>
-    <body style="background-color:cornsilk;">
+    <body style="background-color:#3db9a9;">
 <style>
 .centrado{
     position: relative;

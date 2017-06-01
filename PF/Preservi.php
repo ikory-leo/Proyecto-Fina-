@@ -15,8 +15,8 @@ and open the template in the editor.
 <input type="submit" value="Subir archivo" />
 </form>
 <body>
-  
+
 </body>
 </html>
-
+?>
 

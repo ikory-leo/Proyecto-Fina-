@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+
+
 <!--
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -37,12 +39,12 @@ and open the template in the editor.
 
 
 <body>
-    <div id="p" style="width:10px; height:10px; background-color:#0000ff; position:absolute"></div>
-       <a href="http://www.desarrolloweb.com/">DesarrolloWeb.com</a>
+    
            <div id="objeto">    
     </div>    
     <div id="posicionX"></div>
     <div id="posicionY"></div>
+
      
 </body>
 </html>
