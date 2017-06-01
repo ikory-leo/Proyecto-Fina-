@@ -13,6 +13,18 @@ left: 1250px;
 font-size: 20px;
 font-family:arial;
 }
+#tittle{
+    background-color:red;
+    color: white;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 30px;
+    position: relative;
+    top: 70px;
+    left: 550px;
+    font-size: 20px;
+    font-family:new times roman;
+       }
 #titulo{
     background-color:red;
     color: white;  

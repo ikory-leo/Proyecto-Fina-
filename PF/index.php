@@ -22,17 +22,16 @@ and open the template in the editor.
     </div>
     <div>
 <label id="titulo">ModIn  </label><br><br> 
-<img src="http://img.ifreepic.com/930/32930_icon.jpg" alt="Dog anime" style="width:304px;height:228px;" id="imagen">
-<img src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" alt="Dog anime" style="width:50px;height:40px;" id="indicacion"><label id="indicacion">De click en la huella de lo que quiera ingresar </label>
-<br><br><input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras" onclick="nueva(http://localhost/ProyectoFinal/informacion.php)"><label id="letras"><a href="informacion.php" target="_blank">Informacion de Servicios </a></label><br><br>
-<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras"><a href="registro.php" target="_blank"> Registro</a> </label> <br><br>
-<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras"><a href="servicios.php" target="_blank">Usuario Ocasional</a> </label> <br><br>
-<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras"><a href="galeria.php" target="_blank">Galeria </a> </label> <br><br>
+
+<img  alt="Dog anime" style="width:50px;height:40px;" id="indicacion"><label id="indicacion">De click en la huella de lo que quiera ingresar </label>
+<br><br><input type=image  width="50" height="40" id="letras" onclick="nueva(http://localhost/ProyectoFinal/informacion.php)"><label id="letras"><a href="informacion.php" target="_blank">Informacion de Servicios </a></label><br><br>
+<input type=image  width="50" height="40" id="tittle"><label id="tittle"><a href="registro.php" target="_blank"> Registro</a> </label> <br><br>
+<input type=image  width="50" height="40" id="letras"><label id="tittle"><a href="Preservi.php" target="_blank">Usuario Ocasional</a> </label> <br><br>
+<input type=image  width="50" height="40" id="letras"><label id="tittle"><a href="galeria.php" target="_blank">Galeria </a> </label> <br><br>
 </div>
 
-    
 
 </form> 
-
+//http//jqueryui.com/download/----https://jquery.com/download/
     </body>
 </html>
