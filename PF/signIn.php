@@ -2,7 +2,7 @@
 <!--
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
-and open the template in the editor.
+and open the template in the editor
 -->
 <html>
     <head>
@@ -16,12 +16,12 @@ and open the template in the editor.
     top: 200px;
     left: 520px;
 }
-#botonr{
-border: 5px solid mediumorchid;
-font-size: 30px;
+#boton{
+border: 5px solid #3d76b9;
+font-size: 10px;
 position: relative;
-left: 165px;
-font-family:freestyle script;
+left: 10px;
+font-family:algerian;
 }
 #cuadro{
 border: 4px solid red;
@@ -32,26 +32,27 @@ font-size: 18px;
 font-family:arial;
 }       
 #titulo{
-    background-color:mediumorchid;
-    color: powderblue;
+    background-color:red;
+    color: white;  
     border: 1px solid black;
     padding: 20px;
     margin: 30px;
     position: relative;
-    top: 40px;
-    left: 480px;
+    top: 70px;
+    left: 550px;
     font-size: 50px;
-    font-family:freestyle script;
-       }  
+    font-family:new times roman;
+       }
 </style>
         <form  action="procesarSignIn.php" enctype="multipart/form-data" action="uploader.php" method="POST">
-<label id="titulo">HOTEL CANINO- K9 SUITE! </label><br><br>     
+<label id="titulo">ModIn </label><br><br>     
 <div class="centrado">
 <label id="letras">Nick Name </label> 
 <input type="text" name="nombrep" id="cuadro"><br><br>
 <label id="letras">Password: </label> 
 <input type="text" name="clave" id="cuadro"><br><br>
-<input type="submit" value="SIGN IN" id="botonr">
+<input type="submit" value="SIGN IN" id="boton" action="Continuar.php" >
+  
 </div>
         </form>
     </body>

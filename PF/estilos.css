@@ -1,5 +1,6 @@
 #boton{
-border: 8px solid mediumorchid;
+    background-color:red;
+border: 8px solid red;
 font-size: 20px;
 font-family:ravie;
 position: relative;
@@ -42,11 +43,6 @@ font-family:arial;
     top: 100px;
     left: 400px; 
     }
-    #huellas{
-    position: relative;
-    top: 120px;
-    left: 400px;  
-    }
     #indicacion{
     position: relative;
     top: 500px;
@@ -59,54 +55,4 @@ font-family:arial;
         position: relative;
         top: 100px;
         left:400px; 
-    }
-    #weimaraner{
-    position: relative;
-    top: 90px;
-    left: 90px; 
-    }
-    #pincher{
-    position: relative;
-    top: 90px;
-    left: 400px; 
-    }
-    
-   #pastor{
-    position: relative;
-    top: 90px;
-    left: 710px; 
-    }
-    
-    #cocker{
-    position: relative;
-    top: 90px;
-    left: 1150px; 
-    }
-    #primero{
-    position: relative;
-    top: 90px;
-    left: 90px;
-font-size: 20px;
-font-family:ravie;  
-    }
-    #segundo{
-    position: relative;
-    top: 90px;
-    left: 400px;
-font-size: 20px;
-font-family:ravie;  
-    }
-     #tercero{
-    position: relative;
-    top: 90px;
-    left: 710px;
-font-size: 20px;
-font-family:ravie;  
-    }
-     #cuarto{
-    position: relative;
-    top: 90px;
-    left: 1150px;
-font-size: 20px;
-font-family:ravie;  
     }

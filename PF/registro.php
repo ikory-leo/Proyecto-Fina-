@@ -42,7 +42,7 @@ and open the template in the editor.
     left: 480px;
 }
 #boton{
-border: 5px solid mediumorchid;
+    border: 5px solid #3d76b9;
 font-size: 30px;
 position: relative;
 left: 250px;
@@ -75,7 +75,7 @@ font-family:arial;
 <input type="password" name="clave" id="cuadro2"><br><br>
 <label id="letras"> Confirmar clave: </label> 
 <input type="password" name="clave" id="cuadro"><br><br>
-<input type="submit" value="Registrar" id="botonr">
+<input type="submit" value="Registrar" id="boton" action="Continuar.php" >
 </div>
 </form>  
     </body>
