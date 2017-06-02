@@ -68,7 +68,7 @@ font-family:arial;
 <label id="letras">Nombre: </label> 
 <input type="text" name="nombre" id="cuadro"><br><br>
 <label id="letras">Telefono: </label> 
-<input type="text" name="telefonoc" id="cuadro"><br><br>
+<input type="text" name="telefono" id="cuadro"><br><br>
 <label id="letras">Email: </label> 
 <input type="text" name="email" id="cuadro"><br><br>
 <label id="letras">Clave: </label> 

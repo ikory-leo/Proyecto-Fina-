@@ -5,7 +5,9 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
+
 <html>
+    
    <head>
 
 
@@ -16,12 +18,19 @@ and open the template in the editor.
 <input type="hidden" name="MAX_FILE_SIZE" value="200000" />
 <input name="uploadedfile" type="file" />
 <input type="submit" value="Subir archivo" />
+
 </form>
 <body>
 
 </body>
 </html>
 <script>
+    $_FILES['field_name']['name'];
+$_FILES['field_name']['size'];
+$_FILES['field_name']['type'];
+$_FILES['field_name']['tmp_name'];
+    php.ini;
+    file_uploads = On;
     uploadedfile;
     $target_path;
     $_FILES['uploadedfile']['tmp_name'];

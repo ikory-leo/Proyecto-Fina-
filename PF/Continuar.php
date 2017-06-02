@@ -56,3 +56,4 @@ and open the template in the editor.
 </html>
 <?php
 echo "<img src='uploads/$file_name' >";
+?>

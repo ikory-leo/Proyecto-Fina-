@@ -11,7 +11,7 @@ and open the template in the editor.
         <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="estilos.css">
     </head>
-    <body style="background-color:cornsilk;">
+    <body style="background-color:#3db9a9;">
         <form>
            <img src="http://mascotafiel.com/wp-content/uploads/2015/11/perros-cocker-spaniel_opt-compressor-1.jpg" alt="cocker" style="width:250px;height:220px;" id="cocker"><br>
             <img src="https://cde.peru.com/ima/0/1/5/5/4/1554036/611x458/cocker.jpg" alt="cocker" style="width:250px;height:220px;" id="cocker">

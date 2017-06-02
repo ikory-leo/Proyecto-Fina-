@@ -49,7 +49,7 @@ echo $imImage;
 <label id="tittle"><a href="PreConi.php" target="_blank">Continuar sin registrarse</a> </label> 
 <label id="tittle"><a href="Preguntas.php" target="_blank">Preguntas Frecuentes</a> </label> <br>
 <form onsubmit="return mensaje()" action="signIn.php" >
-    <div class='miBoton'>
+    <div class='Boton'>
 <input type="submit" value="SIGN IN" class='btn btn-info'/>
     </div>
 <label id="tittle"><a href="informacion.php" target="_blank">Acerca de </a></label><br>

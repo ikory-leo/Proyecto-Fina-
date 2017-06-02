@@ -5,15 +5,9 @@ font-size: 20px;
 font-family:ravie;
 position: relative;
 top: 20px;
-left: 1250px;
+left: 120px;
 }
-#letras{
-    position: relative;
-    top: 90px;
-    left: 300px;
-font-size: 20px;
-font-family:arial;
-}
+
 #tittle{
     background-color:red;
     color: white;
@@ -37,19 +31,11 @@ font-family:arial;
     left: 550px;
     font-size: 50px;
     font-family:new times roman;
-       }
-    #imagen{
-    position: relative;
-    top: 100px;
-    left: 400px; 
-    }
-    #indicacion{
-    position: relative;
-    top: 500px;
-    left: 700px; 
-    }
+       } 
+
+
     
-    .miBoton{
+    .Boton{
         margin:0 auto;
         width:20%;
         position: relative;

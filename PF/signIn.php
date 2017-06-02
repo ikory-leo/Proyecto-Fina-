@@ -20,7 +20,7 @@ and open the template in the editor
 border: 5px solid #3d76b9;
 font-size: 10px;
 position: relative;
-left: 10px;
+left: 110px;
 font-family:algerian;
 }
 #cuadro{
