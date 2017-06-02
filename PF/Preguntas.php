@@ -7,14 +7,30 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
-        <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-        <link rel="stylesheet" href="estilos.css">
+ 
     </head>
     <body style="background-color:#3db9a9;">
+        <style>
+            #enunciado{
+                font-size: 18px;
+                font-family:arial;
+                }   
+            #boton{
+                border: 5px solid #3d76b9;
+                font-size: 10px;
+                position: relative;              
+                left: 110px;
+                font-family:algerian;
+            }
+    #cuadro{
+        border: 4px solid powderblue;
+        font-size: 20px;
+        }
+        </style>
         <form>
-           <img src="http://mascotafiel.com/wp-content/uploads/2015/11/perros-cocker-spaniel_opt-compressor-1.jpg" alt="cocker" style="width:250px;height:220px;" id="cocker"><br>
-            <img src="https://cde.peru.com/ima/0/1/5/5/4/1554036/611x458/cocker.jpg" alt="cocker" style="width:250px;height:220px;" id="cocker">
-        </form>
+<label id="enunciado">¿En qué podemos ayudarte?</label> 
+<input type="text"  id="cuadro"><br><br>
+<input type="submit" value="Submit" id="boton" href="index.php" >
+          </form>
     </body>
 </html>

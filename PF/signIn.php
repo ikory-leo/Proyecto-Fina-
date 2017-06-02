@@ -27,10 +27,7 @@ font-family:algerian;
 border: 4px solid red;
 font-size: 20px;
 }
-#letras{
-font-size: 18px;
-font-family:arial;
-}       
+    
 #titulo{
     background-color:red;
     color: white;  
@@ -43,13 +40,19 @@ font-family:arial;
     font-size: 50px;
     font-family:new times roman;
        }
+       #enunciado{
+font-size: 18px;
+font-family:arial;
+}   
 </style>
+<svg width=200 height=200>
+<svg>
         <form  action="procesarSignIn.php" enctype="multipart/form-data" action="uploader.php" method="POST">
 <label id="titulo">ModIn </label><br><br>     
 <div class="centrado">
-<label id="letras">Nick Name </label> 
+<label id="enunciado">Nick Name </label> 
 <input type="text" name="nombrep" id="cuadro"><br><br>
-<label id="letras">Password: </label> 
+<label id="enunciado">Password: </label> 
 <input type="text" name="clave" id="cuadro"><br><br>
 <input type="submit" value="SIGN IN" id="boton" action="Continuar.php" >
   

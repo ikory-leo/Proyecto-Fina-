@@ -41,6 +41,10 @@ and open the template in the editor.
     top: 100px;
     left: 480px;
 }
+#enunciado{
+font-size: 18px;
+font-family:arial;
+}
 #boton{
     border: 5px solid #3d76b9;
 font-size: 30px;
@@ -56,24 +60,21 @@ font-size: 20px;
 border: 4px solid powderblue;
 font-size: 20px;
 }
-#letras{
-font-size: 18px;
-font-family:arial;
-}
+
 
 </style>
 <form onsubmit="return mensaje()" action="procesarregistro.php" enctype="multipart/form-data" action="uploader.php" method="POST">
 <label id="titulo">ModIn </label><br><br>     
 <div class="centrado">
-<label id="letras">Nombre: </label> 
+<label id="enunciado">Nombre: </label> 
 <input type="text" name="nombre" id="cuadro"><br><br>
-<label id="letras">Telefono: </label> 
+<label id="enunciado">Telefono: </label> 
 <input type="text" name="telefono" id="cuadro"><br><br>
-<label id="letras">Email: </label> 
+<label id="enunciado">Email: </label> 
 <input type="text" name="email" id="cuadro"><br><br>
-<label id="letras">Clave: </label> 
+<label id="enunciado">Clave: </label> 
 <input type="password" name="clave" id="cuadro2"><br><br>
-<label id="letras"> Confirmar clave: </label> 
+<label id="enunciado"> Confirmar clave: </label> 
 <input type="password" name="clave" id="cuadro"><br><br>
 <input type="submit" value="Registrar" id="boton" action="Continuar.php" >
 </div>
